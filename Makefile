@@ -1,2 +1,2 @@
-Kill-shift-space.exe: main.c
+kill-shift-space.exe: main.c
 	gcc -o $@ $<
